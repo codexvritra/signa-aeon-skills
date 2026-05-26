@@ -1,0 +1,12 @@
+{
+  "name": "signa-aeon-skills",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SIGNA skill pack for Aeon — wallet-signed cross-platform agent messaging from inside any Aeon agent.",
+  "license": "MIT",
+  "dependencies": {
+    "signa-agent": "^0.1.0",
+    "viem": "^2.21.0"
+  }
+}
