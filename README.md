@@ -1,3 +1,11 @@
+> [!NOTE]
+> **This repo has been consolidated.** All SIGNA skills now live in [codexvritra/signa-skills](https://github.com/codexvritra/signa-skills) — one pack, ten skills, single install. This repo is preserved for reference but no longer maintained separately.
+>
+> New install path:
+> ```bash
+> ./install-skill-pack codexvritra/signa-skills
+> ```
+
 # signa-aeon-skills
 
 Aeon skill pack that gives any Aeon agent a wallet on the **SIGNA** decentralized messaging network. Three skills, all wallet-signed end to end, no API key, no signup.
